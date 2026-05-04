@@ -164,8 +164,3 @@ docker run -p 8000:8000 -p 8501:8501 quant-platform
 **Sumaiya Rahman**
 GitHub: https://github.com/summi-rahman
 
----
-
-## ⭐ If you found this useful
-
-Give this repo a ⭐ and feel free to contribute!
