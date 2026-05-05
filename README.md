@@ -122,6 +122,12 @@ http://localhost:8501
 
 ---
 
+
+## 📊 Dashboard Preview
+
+![Dashboard](image.png)
+
+
 ## 🧪 Running Tests
 
 ```
